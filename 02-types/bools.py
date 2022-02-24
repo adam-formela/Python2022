@@ -11,6 +11,8 @@ result3 = 27 % 8 == 3
 print(result3)
 
 # Wyświetl True, jeżeli liczba jest parzysta.
+
 number = int(input("Podaj liczbe całkowitą 1-100:"))
 result4 = number % 2 == 0
 print(result4)
+
