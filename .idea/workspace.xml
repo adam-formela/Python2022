@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d88e5bc-f790-4e69-a00f-96d3fc02ca3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03-flow/01_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-flow/01_if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-flow/01_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-flow/03_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-flow/03_if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-flow/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-functions/01_bmi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-functions/01_func_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-functions/intro_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +47,20 @@
       <recent name="$PROJECT_DIR$/01-intro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="01_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01_bmi">
+    <configuration name="01_bmi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-functions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-flow/01_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-functions/01_bmi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,19 +69,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01_func_intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-functions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-flow/01_while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-functions/01_func_intro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,19 +90,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_func_intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-functions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-flow/03_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-functions/03_func_intro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,19 +111,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="intro_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05-functions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-flow/05_if.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-functions/intro_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_bmi" />
+        <item itemvalue="Python.03_func_intro" />
+        <item itemvalue="Python.01_func_intro" />
+        <item itemvalue="Python.intro_functions" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.01_while" />
-        <item itemvalue="Python.03_for" />
-        <item itemvalue="Python.01_for" />
-        <item itemvalue="Python.05_if" />
       </list>
     </recent_temporary>
   </component>
