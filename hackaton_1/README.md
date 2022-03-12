@@ -43,8 +43,9 @@ Program przechowujący danę kontaktowe znajomych/klientów.
     - dwa tryby: zdobyte karty dochodzą do "ręki", lub są odkładane i nie wykorzystywane
 
 ### Quiz
-Stwórz grę, która zawiera pytania z wiedzy ogólnej (Trivial pursuit)
--
+- Stwórz grę, która zawiera pytania z wiedzy ogólnej (Trivial pursuit)
+- Konieczność użycia modułu `random`.
+  
 
 ### Kółko i krzyżyk:
 Program będący implementacją gry w "kółko i krzyżyk" dla dwóch graczy.
